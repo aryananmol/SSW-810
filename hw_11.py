@@ -1,3 +1,4 @@
+"""Student repository with database"""
 import os
 from collections import defaultdict
 from prettytable import PrettyTable
